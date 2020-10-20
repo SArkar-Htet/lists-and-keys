@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lists-and-keys/static/css/main.e3d7f5f4.chunk.css",
+    "main.js": "/lists-and-keys/static/js/main.a7d70b19.chunk.js",
+    "main.js.map": "/lists-and-keys/static/js/main.a7d70b19.chunk.js.map",
+    "runtime-main.js": "/lists-and-keys/static/js/runtime-main.ae2143bd.js",
+    "runtime-main.js.map": "/lists-and-keys/static/js/runtime-main.ae2143bd.js.map",
+    "static/js/2.225a396e.chunk.js": "/lists-and-keys/static/js/2.225a396e.chunk.js",
+    "static/js/2.225a396e.chunk.js.map": "/lists-and-keys/static/js/2.225a396e.chunk.js.map",
+    "index.html": "/lists-and-keys/index.html",
+    "precache-manifest.30debc37d8ab9e3f00b009c7a64c57b8.js": "/lists-and-keys/precache-manifest.30debc37d8ab9e3f00b009c7a64c57b8.js",
+    "service-worker.js": "/lists-and-keys/service-worker.js",
+    "static/css/main.e3d7f5f4.chunk.css.map": "/lists-and-keys/static/css/main.e3d7f5f4.chunk.css.map",
+    "static/js/2.225a396e.chunk.js.LICENSE.txt": "/lists-and-keys/static/js/2.225a396e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae2143bd.js",
+    "static/js/2.225a396e.chunk.js",
+    "static/css/main.e3d7f5f4.chunk.css",
+    "static/js/main.a7d70b19.chunk.js"
+  ]
+}
